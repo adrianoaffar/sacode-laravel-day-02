@@ -2,7 +2,8 @@
 
 ## GitHub Pages URL
 
-Lihat Hasil Belajar disini ...
+Lihat Hasil Belajar disini
+https://adrianoaffar.github.io/sacode-laravel-day-02/
 
 
 ## Git Commands
