@@ -4,3 +4,17 @@
 
 Lihat Hasil Belajar disini ...
 
+
+## Git Commands
+
+```
+git add
+```
+
+```
+git commit -m "pesan disini"
+```
+
+```
+git push
+```
