@@ -1,2 +1,6 @@
-# sacode-laravel-day-02
-Belajar HTML, CSS, Bootstrap
+# Belajar HTML, CSS, Bootstrap
+
+## GitHub Pages URL
+
+Lihat Hasil Belajar disini ...
+
